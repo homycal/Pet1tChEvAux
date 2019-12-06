@@ -1,0 +1,7 @@
+Pour lancer le programme :
+- Ouvrir un terminal dans PetitsChevauxV5.4.1
+- Executer la commande make
+- Executer la commande ./petitsChevaux
+
+Programme conçu par MAZENQ Chanelle (TP1.1) et HOLAY Jérémy (TP1.1) 
+dans le cadre d'un projet tutoré.
